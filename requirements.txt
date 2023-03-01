@@ -1,0 +1,16 @@
+jupyterlab==3.5.2
+scikit-learn==1.2.0
+pandas==1.5.2
+matplotlib==3.6.2
+numpy==1.23.5
+seaborn==0.12.2
+llvmlite==0.39.1
+numba==0.56.4
+shap==0.41.0
+iprogress==0.4
+interpret==0.3.0
+torch==1.13.1
+torchvision==0.14.1
+torchaudio==0.13.1
+lime==0.2.0.1
+
